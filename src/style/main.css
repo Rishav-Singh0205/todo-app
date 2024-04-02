@@ -1,0 +1,10 @@
+.cards-Bg {
+  margin: 20px;
+}
+#cards-Bg1 {
+  background-color: #e6e6fa;
+  overflow: hidden;
+}
+#fname {
+  font-weight: bold;
+}
